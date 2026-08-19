@@ -1,0 +1,1041 @@
+{
+  "ThongTinSinhVien": {
+    "HoTen": "Đặng Thần Cầu",
+    "MaSinhVien": "23IT025"
+  },
+  "KetQuaHocTap": {
+    "2023-2024": {
+      "Học kỳ 1": [
+        {
+          "STT_ID": "10354",
+          "TenLopHocPhan": "Lập trình cơ bản",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 10,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 3
+          },
+          "DiemTongKet": {
+            "He10": 6.1,
+            "He4": 2,
+            "DiemChu": "C"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "10639",
+          "TenLopHocPhan": "Nhập môn ngành và kỹ năng mềm IT",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 8,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": null
+          },
+          "DiemTongKet": {
+            "He10": null,
+            "He4": 0,
+            "DiemChu": "F"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "10260",
+          "TenLopHocPhan": "Cơ sở dữ liệu",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 9,
+            "GiuaKy": 9.5,
+            "CuoiKy_DoAn": 4
+          },
+          "DiemTongKet": {
+            "He10": 6.7,
+            "He4": 2,
+            "DiemChu": "C"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "10306",
+          "TenLopHocPhan": "Lập trình hướng đối tượng",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 7.5
+          },
+          "DiemTongKet": {
+            "He10": 8,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "10404",
+          "TenLopHocPhan": "Tiếng Anh chuyên ngành 1 IT",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": 7.5,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 7.5
+          },
+          "DiemTongKet": {
+            "He10": 7.8,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "10393",
+          "TenLopHocPhan": "Giải tích 1",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 6.5,
+            "CuoiKy_DoAn": 6
+          },
+          "DiemTongKet": {
+            "He10": 6.9,
+            "He4": 2,
+            "DiemChu": "C"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "10563",
+          "TenLopHocPhan": "Tiếng Anh 1",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": null,
+            "GiuaKy": 8.1,
+            "CuoiKy_DoAn": 8.3
+          },
+          "DiemTongKet": {
+            "He10": 8.4,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        }
+      ],
+      "Học kỳ 2": [
+        {
+          "STT_ID": "11577",
+          "TenLopHocPhan": "Đại số tuyến tính",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 10,
+            "CuoiKy_DoAn": 9.5
+          },
+          "DiemTongKet": {
+            "He10": 9.7,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "12089",
+          "TenLopHocPhan": "Thiết kế web",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 8.5
+          },
+          "DiemTongKet": {
+            "He10": 8.5,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "11485",
+          "TenLopHocPhan": "Cấu trúc dữ liệu và giải thuật",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": 9,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 4.2
+          },
+          "DiemTongKet": {
+            "He10": 6.4,
+            "He4": 2,
+            "DiemChu": "C"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "11723",
+          "TenLopHocPhan": "Khởi nghiệp và đổi mới sáng tạo",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 8.5,
+            "CuoiKy_DoAn": 8
+          },
+          "DiemTongKet": {
+            "He10": 8.5,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "12002",
+          "TenLopHocPhan": "Tiếng Anh chuyên ngành 2",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 7,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 8
+          },
+          "DiemTongKet": {
+            "He10": 8,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "11943",
+          "TenLopHocPhan": "Tiếng Anh 2",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": null,
+            "GiuaKy": 9,
+            "CuoiKy_DoAn": 7.9
+          },
+          "DiemTongKet": {
+            "He10": 8.3,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "11781",
+          "TenLopHocPhan": "Lập trình Java",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": 8,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 7
+          },
+          "DiemTongKet": {
+            "He10": 7.6,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "12620",
+          "TenLopHocPhan": "Đồ án cơ sở 1",
+          "SoTinChi": 1,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 8.5,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": 8
+          },
+          "DiemTongKet": {
+            "He10": 8.2,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        }
+      ]
+    },
+    "2024-2025": {
+      "Học kỳ 1": [
+        {
+          "STT_ID": "13714",
+          "TenLopHocPhan": "Kiến trúc máy tính",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 9.2,
+            "GiuaKy": 8.3,
+            "CuoiKy_DoAn": 4.8
+          },
+          "DiemTongKet": {
+            "He10": 6.9,
+            "He4": 2,
+            "DiemChu": "C"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "13783",
+          "TenLopHocPhan": "Tiếng Anh 3",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": null,
+            "GiuaKy": 9.2,
+            "CuoiKy_DoAn": 9
+          },
+          "DiemTongKet": {
+            "He10": 9.1,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "13750",
+          "TenLopHocPhan": "Phân tích và thiết kế hệ thống",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8.8,
+            "GiuaKy": 6,
+            "CuoiKy_DoAn": 5.5
+          },
+          "DiemTongKet": {
+            "He10": 6.7,
+            "He4": 2,
+            "DiemChu": "C"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "13677",
+          "TenLopHocPhan": "Công nghệ và lập trình web",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8,
+            "GiuaKy": 7,
+            "CuoiKy_DoAn": 8
+          },
+          "DiemTongKet": {
+            "He10": 8,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "13828",
+          "TenLopHocPhan": "Vật lý",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8.7,
+            "GiuaKy": 1.5,
+            "CuoiKy_DoAn": 3.8
+          },
+          "DiemTongKet": {
+            "He10": 4.9,
+            "He4": 1,
+            "DiemChu": "D"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "13804",
+          "TenLopHocPhan": "Tiếng Anh nâng cao 1",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 8.7,
+            "CuoiKy_DoAn": 8.5
+          },
+          "DiemTongKet": {
+            "He10": 8.8,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "13694",
+          "TenLopHocPhan": "Giải tích 2",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 5.5,
+            "CuoiKy_DoAn": 3.5
+          },
+          "DiemTongKet": {
+            "He10": 5.2,
+            "He4": 1,
+            "DiemChu": "D"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "14530",
+          "TenLopHocPhan": "Đồ án cơ sở 2 !!",
+          "SoTinChi": 1,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 8,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": 8.7
+          },
+          "DiemTongKet": {
+            "He10": 8.5,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        }
+      ],
+      "Học kỳ 2": [
+        {
+          "STT_ID": "15441",
+          "TenLopHocPhan": "Xác suất thống kê",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 10,
+            "CuoiKy_DoAn": 6
+          },
+          "DiemTongKet": {
+            "He10": 7.6,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "15406",
+          "TenLopHocPhan": "Toán rời rạc",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8.5,
+            "GiuaKy": 7.5,
+            "CuoiKy_DoAn": 6.5
+          },
+          "DiemTongKet": {
+            "He10": 7.5,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "15415",
+          "TenLopHocPhan": "Vi điều khiển",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8.5,
+            "GiuaKy": 8.5,
+            "CuoiKy_DoAn": 7
+          },
+          "DiemTongKet": {
+            "He10": 7.9,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "15363",
+          "TenLopHocPhan": "Tiếng Anh nâng cao 2",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 8.4,
+            "CuoiKy_DoAn": 6.5
+          },
+          "DiemTongKet": {
+            "He10": 7.6,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "15339",
+          "TenLopHocPhan": "Mạng máy tính",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 9.5,
+            "GiuaKy": 9.5,
+            "CuoiKy_DoAn": 7
+          },
+          "DiemTongKet": {
+            "He10": 8.3,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "15328",
+          "TenLopHocPhan": "Lập trình di động",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": 10,
+            "GiuaKy": 9.5,
+            "CuoiKy_DoAn": 6
+          },
+          "DiemTongKet": {
+            "He10": 7.8,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "15283",
+          "TenLopHocPhan": "Công nghệ phần mềm",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 6.8
+          },
+          "DiemTongKet": {
+            "He10": 7.6,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "15266",
+          "TenLopHocPhan": "Chuyên đề 1 (IT)",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": 8
+          },
+          "DiemTongKet": {
+            "He10": 8.2,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "16045",
+          "TenLopHocPhan": "",
+          "SoTinChi": 1,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 8,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": 7.8
+          },
+          "DiemTongKet": {
+            "He10": 7.9,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        }
+      ],
+      "Học kỳ hè": [
+        {
+          "STT_ID": "16373",
+          "TenLopHocPhan": "Triết học Mác - Lênin",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9.5,
+            "BaiTap": null,
+            "GiuaKy": 9.4,
+            "CuoiKy_DoAn": 8.2
+          },
+          "DiemTongKet": {
+            "He10": 8.7,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "16412",
+          "TenLopHocPhan": "Trí tuệ nhân tạo",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 7,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 8.5
+          },
+          "DiemTongKet": {
+            "He10": 8.3,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        }
+      ]
+    },
+    "2025-2026": {
+      "Học kỳ 1": [
+        {
+          "STT_ID": "16993",
+          "TenLopHocPhan": "Lập trình hệ thống",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8.7,
+            "GiuaKy": 9,
+            "CuoiKy_DoAn": 8.5
+          },
+          "DiemTongKet": {
+            "He10": 8.8,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "17177",
+          "TenLopHocPhan": "Nguyên lý hệ điều hành",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": null,
+            "GiuaKy": 8.8,
+            "CuoiKy_DoAn": 5.6
+          },
+          "DiemTongKet": {
+            "He10": 6.9,
+            "He4": 2,
+            "DiemChu": "C"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "17010",
+          "TenLopHocPhan": "Linux và phần mềm nguồn mở",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 9.7,
+            "GiuaKy": 9,
+            "CuoiKy_DoAn": 7.5
+          },
+          "DiemTongKet": {
+            "He10": 8.5,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "16760",
+          "TenLopHocPhan": "Kinh tế chính trị Mác - Lênin",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 10,
+            "CuoiKy_DoAn": 8.2
+          },
+          "DiemTongKet": {
+            "He10": 8.9,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "17004",
+          "TenLopHocPhan": "Lập trình mạng",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 7,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 7.5
+          },
+          "DiemTongKet": {
+            "He10": 7.8,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "17022",
+          "TenLopHocPhan": "Phân tích và thiết kế giải thuật",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 9,
+            "CuoiKy_DoAn": 6.5
+          },
+          "DiemTongKet": {
+            "He10": 7.7,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "17069",
+          "TenLopHocPhan": "Tiếng Anh nâng cao 3",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 7.4,
+            "CuoiKy_DoAn": 6.7
+          },
+          "DiemTongKet": {
+            "He10": 7.5,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "16972",
+          "TenLopHocPhan": "Đồ họa máy tính IT",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 7.5,
+            "GiuaKy": 8.7,
+            "CuoiKy_DoAn": 8.5
+          },
+          "DiemTongKet": {
+            "He10": 8.5,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "16950",
+          "TenLopHocPhan": "Chuyên đề 2",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 8.5,
+            "CuoiKy_DoAn": 9
+          },
+          "DiemTongKet": {
+            "He10": 9.1,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "16659",
+          "TenLopHocPhan": "Thực tập thực tế (IT)",
+          "SoTinChi": 1,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": 7
+          },
+          "DiemTongKet": {
+            "He10": 7.6,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18073",
+          "TenLopHocPhan": "Đồ án cơ sở 4 (IT )",
+          "SoTinChi": 1,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": 9
+          },
+          "DiemTongKet": {
+            "He10": 9,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        }
+      ],
+      "Học kỳ 2": [
+        {
+          "STT_ID": "18500",
+          "TenLopHocPhan": "Kho dữ liệu",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 8,
+            "GiuaKy": 7.5,
+            "CuoiKy_DoAn": 7.5
+          },
+          "DiemTongKet": {
+            "He10": 7.9,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18908",
+          "TenLopHocPhan": "Pháp luật đại cương",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 8,
+            "BaiTap": null,
+            "GiuaKy": 8.2,
+            "CuoiKy_DoAn": 7.8
+          },
+          "DiemTongKet": {
+            "He10": 7.9,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18461",
+          "TenLopHocPhan": "Đảm bảo chất lượng và kiểm thử phần mềm",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9.5,
+            "BaiTap": null,
+            "GiuaKy": 7.5,
+            "CuoiKy_DoAn": 6.1
+          },
+          "DiemTongKet": {
+            "He10": 7.1,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18426",
+          "TenLopHocPhan": "Chuyên đề 3",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 9,
+            "CuoiKy_DoAn": 8.5
+          },
+          "DiemTongKet": {
+            "He10": 8.9,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18865",
+          "TenLopHocPhan": "Chủ nghĩa xã hội khoa học",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 8.6,
+            "CuoiKy_DoAn": 8.2
+          },
+          "DiemTongKet": {
+            "He10": 8.6,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18379",
+          "TenLopHocPhan": "Automat và Ngôn ngữ hình thức",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 8.4
+          },
+          "DiemTongKet": {
+            "He10": 8.6,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18950",
+          "TenLopHocPhan": "Tiếng Anh nâng cao 4",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 9,
+            "BaiTap": null,
+            "GiuaKy": 7.1,
+            "CuoiKy_DoAn": 6.8
+          },
+          "DiemTongKet": {
+            "He10": 7.3,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18485",
+          "TenLopHocPhan": "Học máy",
+          "SoTinChi": 3,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": 7.2,
+            "GiuaKy": 7.5,
+            "CuoiKy_DoAn": 7
+          },
+          "DiemTongKet": {
+            "He10": 7.4,
+            "He4": 3,
+            "DiemChu": "B"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "18405",
+          "TenLopHocPhan": "Chương trình dịch",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 10,
+            "BaiTap": null,
+            "GiuaKy": 8,
+            "CuoiKy_DoAn": 8.1
+          },
+          "DiemTongKet": {
+            "He10": 8.5,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        },
+        {
+          "STT_ID": "19397",
+          "TenLopHocPhan": "Đồ án chuyên ngành 1 (IT) !!",
+          "SoTinChi": 1,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": 8.5,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": 9
+          },
+          "DiemTongKet": {
+            "He10": 8.9,
+            "He4": 4,
+            "DiemChu": "A"
+          },
+          "GhiChu": ""
+        }
+      ],
+      "Học kỳ hè": [
+        {
+          "STT_ID": "20060",
+          "TenLopHocPhan": "Tư tưởng Hồ Chí Minh",
+          "SoTinChi": 2,
+          "LanHoc": 1,
+          "DiemThanhPhan": {
+            "ChuyenCan_GVHD": null,
+            "BaiTap": null,
+            "GiuaKy": null,
+            "CuoiKy_DoAn": null
+          },
+          "DiemTongKet": {
+            "He10": null,
+            "He4": 0,
+            "DiemChu": "F"
+          },
+          "GhiChu": ""
+        }
+      ]
+    },
+    "2026-2027": {
+      "Học kỳ 1": []
+    }
+  }
+}
